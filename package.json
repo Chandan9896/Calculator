@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "",
+    "build": "cd client && npm install && npm run build",
+    "start": "cd server && npm install && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Chandan H P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/issues"
+  }
+}
